@@ -11,4 +11,4 @@ BMI Calculator app that calculates Body Mass Index and displays BMI categories b
 
 ## Screenshot
 
-![BMI Calculator](screenshot.png)
+![BMI Calculator](screenshot.png.jpeg)
